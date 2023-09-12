@@ -1,3 +1,5 @@
+0.You should be using python3 and debian OS like me!
+
 1.Upload the mian.py file to the /opt/mysqlbackup directory on the server
 
 2.Configure a system service
